@@ -6,7 +6,6 @@
       <option name="INSERT_OVERRIDE_ANNOTATION" value="false" />
       <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
       <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
-      <option name="USE_SINGLE_CLASS_IMPORTS" value="true" />
       <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
       <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
       <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">

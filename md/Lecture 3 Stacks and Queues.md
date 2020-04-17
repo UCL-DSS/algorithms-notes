@@ -1,3 +1,5 @@
+[toc]
+
 # Lecture 3: Stacks and Queues
 
 ## Stack
