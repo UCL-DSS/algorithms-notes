@@ -1,5 +1,7 @@
 # Lecture 1: Union-Find
 
+[toc]
+
 ## Dynamic Connectivity
 
 ### Problem

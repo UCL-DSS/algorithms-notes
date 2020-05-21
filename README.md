@@ -24,5 +24,21 @@ by Robert Sedgewick and Kevin Wayne
 
 `./pdf/`: the exported PDFs from the `.md` files are placed in this directory
 
+## Table of Contents
+
+| Index     | Topic                        |
+| --------- | ---------------------------- |
+| Lecture 1 | Union-Find                   |
+| Lecture 2 | Analysis of Algorithms       |
+| Lab 1     | Percolation                  |
+| Lecture 3 | Stacks and Queues            |
+| Lecture 4 | Elementary Sorts             |
+| Lab 2     | Deques and Randomised Queues |
+| Lecture 5 | Mergesort                    |
+| Lecture 6 | Quicksort                    |
+| Lab 3     | Collinear                    |
+
 ## Coursera Page
+
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/)
+

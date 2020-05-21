@@ -1,5 +1,9 @@
 # Lecture 2: Analysis of Algorithms
 
+[toc]
+
+
+
 ## Data Analysis
 
 ***Standard Plot***
@@ -67,7 +71,7 @@ Running time is about $aN^b$ with $b=\lg(ratio)$, solve for $a$ with a sufficent
 
 ## Experimental Algorithms
 
-### Determinants of $b$:
+### Determinants of $b$
 
 ***System independent effects:***
 
@@ -184,7 +188,7 @@ for (int i = 0; i < N; i++){
 >   \end{aligned}
 >   $$
 
-## Sample Question:
+### Sample Question
 
 ***How many array accesses does the following code fragment make as a function of $n$?***
 
